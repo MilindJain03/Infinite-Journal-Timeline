@@ -33,7 +33,7 @@ https://infinite-journal-timeline.vercel.app/
 
 ## Tech Stack
 
--   **Framework:** [React](https://reactjs.org/) (with Create React App)
+-   **Framework:** [React](https://reactjs.org/)
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
 -   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 -   **Virtualization:** [React Virtuoso](https://virtuoso.dev/) for high-performance scrolling.
