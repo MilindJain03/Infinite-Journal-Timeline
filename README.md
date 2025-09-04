@@ -5,7 +5,7 @@
 This project's core focus was to create an exceptionally smooth and responsive user experience, ensuring continuous scrolling through months and years without any lag or jitter. Every component, from the custom-built grid to the swipeable card viewer, was designed with performance and mobile-first principles in mind.
 
 ### Live Demo
-
+https://infinite-journal-timeline.vercel.app/
 
 ---
 
