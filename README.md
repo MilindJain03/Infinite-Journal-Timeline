@@ -54,11 +54,11 @@ You need to have [Node.js](https://nodejs.org/) (v16 or later) and [npm](https:/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/MilindJain03/Infinite-Journal-Timeline.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd Infinite-Journal-Timeline
     ```
 3.  **Install the dependencies:**
     ```bash
